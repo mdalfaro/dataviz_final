@@ -1,0 +1,933 @@
+{
+	"name": "NFL Teams",
+	"children": [
+		{
+			"name": "ATL",
+			"children": [
+				{
+					"name":" Matt Ryan",
+					"value": 314.9
+				},
+				{
+					"name":" Julio Jones",
+					"value": 206.7
+				},
+				{
+					"name":" Devonta Freeman",
+					"value": 161.2
+				},
+				{
+					"name":" Calvin Ridley",
+					"value": 136.2
+				},
+				{
+					"name":" Giorgio Tavecchio",
+					"value": 113.3
+				},
+				{
+					"name":" other",
+					"value": 498.5
+				}
+			]
+		},
+		{
+			"name": "GB",
+			"children": [
+				{
+					"name":" Aaron Rodgers",
+					"value": 310.1
+				},
+				{
+					"name":" Davante Adams",
+					"value": 204.6
+				},
+				{
+					"name":" Aaron Jones",
+					"value": 181.1
+				},
+				{
+					"name":" Mason Crosby",
+					"value": 112.8
+				},
+				{
+					"name":" Geronimo Allison",
+					"value": 112.3
+				},
+				{
+					"name":" other",
+					"value": 560.5
+				}
+			]
+		},
+		{
+			"name": "HOU",
+			"children": [
+				{
+					"name":" Deshaun Watson",
+					"value": 310.1
+				},
+				{
+					"name":" DeAndre Hopkins",
+					"value": 202.3
+				},
+				{
+					"name":" Lamar Miller",
+					"value": 158.4
+				},
+				{
+					"name":" Will Fuller",
+					"value": 113.5
+				},
+				{
+					"name":" Houston Texans",
+					"value": 108.3
+				},
+				{
+					"name":" other",
+					"value": 321.99999999999994
+				}
+			]
+		},
+		{
+			"name": "CLE",
+			"children": [
+				{
+					"name":" Baker Mayfield",
+					"value": 284.7
+				},
+				{
+					"name":" Nick Chubb",
+					"value": 197.7
+				},
+				{
+					"name":" Odell Beckham Jr.",
+					"value": 196.2
+				},
+				{
+					"name":" Jarvis Landry",
+					"value": 134.1
+				},
+				{
+					"name":" Austin Seibert",
+					"value": 112.2
+				},
+				{
+					"name":" other",
+					"value": 600.7
+				}
+			]
+		},
+		{
+			"name": "PIT",
+			"children": [
+				{
+					"name":" Ben Roethlisberger",
+					"value": 289.6
+				},
+				{
+					"name":" James Conner",
+					"value": 216.1
+				},
+				{
+					"name":" JuJu Smith-Schuster",
+					"value": 189.7
+				},
+				{
+					"name":" Chris Boswell",
+					"value": 109.0
+				},
+				{
+					"name":" Pittsburgh Steelers",
+					"value": 104.9
+				},
+				{
+					"name":" other",
+					"value": 556.0
+				}
+			]
+		},
+		{
+			"name": "OAK",
+			"children": [
+				{
+					"name":" Derek Carr",
+					"value": 246.3
+				},
+				{
+					"name":" Antonio Brown",
+					"value": 185.3
+				},
+				{
+					"name":" Josh Jacobs",
+					"value": 173.2
+				},
+				{
+					"name":" Tyrell Williams",
+					"value": 105.7
+				},
+				{
+					"name":" Daniel Carlson",
+					"value": 104.7
+				},
+				{
+					"name":" other",
+					"value": 385.9
+				}
+			]
+		},
+		{
+			"name": "TB",
+			"children": [
+				{
+					"name":" Jameis Winston",
+					"value": 288.3
+				},
+				{
+					"name":" Mike Evans",
+					"value": 183.6
+				},
+				{
+					"name":" Chris Godwin",
+					"value": 137.7
+				},
+				{
+					"name":" O.J. Howard",
+					"value": 119.2
+				},
+				{
+					"name":" Peyton Barber",
+					"value": 115.8
+				},
+				{
+					"name":" other",
+					"value": 492.0
+				}
+			]
+		},
+		{
+			"name": "NO",
+			"children": [
+				{
+					"name":" Drew Brees",
+					"value": 282.2
+				},
+				{
+					"name":" Alvin Kamara",
+					"value": 256.6
+				},
+				{
+					"name":" Michael Thomas",
+					"value": 181.0
+				},
+				{
+					"name":" Wil Lutz",
+					"value": 123.3
+				},
+				{
+					"name":" Latavius Murray",
+					"value": 120.0
+				},
+				{
+					"name":" other",
+					"value": 549.1
+				}
+			]
+		},
+		{
+			"name": "IND",
+			"children": [
+				{
+					"name":" Andrew Luck",
+					"value": 298.5
+				},
+				{
+					"name":" Marlon Mack",
+					"value": 180.5
+				},
+				{
+					"name":" T.Y. Hilton",
+					"value": 180.2
+				},
+				{
+					"name":" Adam Vinatieri",
+					"value": 114.5
+				},
+				{
+					"name":" Indianapolis Colts",
+					"value": 109.9
+				},
+				{
+					"name":" other",
+					"value": 561.6
+				}
+			]
+		},
+		{
+			"name": "LAC",
+			"children": [
+				{
+					"name":" Philip Rivers",
+					"value": 264.6
+				},
+				{
+					"name":" Melvin Gordon",
+					"value": 238.6
+				},
+				{
+					"name":" Keenan Allen",
+					"value": 173.2
+				},
+				{
+					"name":" Mike Williams",
+					"value": 127.1
+				},
+				{
+					"name":" Michael Badgley",
+					"value": 115.6
+				},
+				{
+					"name":" other",
+					"value": 446.59999999999997
+				}
+			]
+		},
+		{
+			"name": "MIN",
+			"children": [
+				{
+					"name":" Kirk Cousins",
+					"value": 263.2
+				},
+				{
+					"name":" Dalvin Cook",
+					"value": 191.9
+				},
+				{
+					"name":" Adam Thielen",
+					"value": 170.5
+				},
+				{
+					"name":" Stefon Diggs",
+					"value": 149.5
+				},
+				{
+					"name":" Minnesota Vikings",
+					"value": 106.2
+				},
+				{
+					"name":" other",
+					"value": 423.09999999999997
+				}
+			]
+		},
+		{
+			"name": "NE",
+			"children": [
+				{
+					"name":" Tom Brady",
+					"value": 274.3
+				},
+				{
+					"name":" Sony Michel",
+					"value": 190.6
+				},
+				{
+					"name":" Julian Edelman",
+					"value": 166.3
+				},
+				{
+					"name":" James White",
+					"value": 126.9
+				},
+				{
+					"name":" Stephen Gostkowski",
+					"value": 120.1
+				},
+				{
+					"name":" other",
+					"value": 614.9
+				}
+			]
+		},
+		{
+			"name": "DAL",
+			"children": [
+				{
+					"name":" Dak Prescott",
+					"value": 289.2
+				},
+				{
+					"name":" Ezekiel Elliott",
+					"value": 262.3
+				},
+				{
+					"name":" Amari Cooper",
+					"value": 165.0
+				},
+				{
+					"name":" Brett Maher",
+					"value": 114.4
+				},
+				{
+					"name":" Dallas Cowboys",
+					"value": 100.3
+				},
+				{
+					"name":" other",
+					"value": 357.3
+				}
+			]
+		},
+		{
+			"name": "CIN",
+			"children": [
+				{
+					"name":" Andy Dalton",
+					"value": 222.2
+				},
+				{
+					"name":" Joe Mixon",
+					"value": 204.2
+				},
+				{
+					"name":" A.J. Green",
+					"value": 163.2
+				},
+				{
+					"name":" Tyler Boyd",
+					"value": 126.3
+				},
+				{
+					"name":" Cincinnati Bengals",
+					"value": 97.4
+				},
+				{
+					"name":" other",
+					"value": 379.29999999999995
+				}
+			]
+		},
+		{
+			"name": "LAR",
+			"children": [
+				{
+					"name":" Jared Goff",
+					"value": 283.0
+				},
+				{
+					"name":" Todd Gurley",
+					"value": 228.3
+				},
+				{
+					"name":" Brandin Cooks",
+					"value": 159.0
+				},
+				{
+					"name":" Robert Woods",
+					"value": 158.9
+				},
+				{
+					"name":" Cooper Kupp",
+					"value": 150.6
+				},
+				{
+					"name":" other",
+					"value": 482.59999999999997
+				}
+			]
+		},
+		{
+			"name": "KC",
+			"children": [
+				{
+					"name":" Patrick Mahomes",
+					"value": 339.5
+				},
+				{
+					"name":" Travis Kelce",
+					"value": 185.3
+				},
+				{
+					"name":" Damien Williams",
+					"value": 177.7
+				},
+				{
+					"name":" Tyreek Hill",
+					"value": 149.2
+				},
+				{
+					"name":" Sammy Watkins",
+					"value": 147.6
+				},
+				{
+					"name":" other",
+					"value": 572.4000000000001
+				}
+			]
+		},
+		{
+			"name": "PHI",
+			"children": [
+				{
+					"name":" Carson Wentz",
+					"value": 273.0
+				},
+				{
+					"name":" Zach Ertz",
+					"value": 140.2
+				},
+				{
+					"name":" Alshon Jeffery",
+					"value": 137.3
+				},
+				{
+					"name":" Miles Sanders",
+					"value": 130.6
+				},
+				{
+					"name":" Jordan Howard",
+					"value": 110.4
+				},
+				{
+					"name":" other",
+					"value": 562.6
+				}
+			]
+		},
+		{
+			"name": "DET",
+			"children": [
+				{
+					"name":" Matthew Stafford",
+					"value": 236.0
+				},
+				{
+					"name":" Kerryon Johnson",
+					"value": 171.3
+				},
+				{
+					"name":" Kenny Golladay",
+					"value": 135.4
+				},
+				{
+					"name":" Marvin Jones",
+					"value": 121.1
+				},
+				{
+					"name":" Matt Prater",
+					"value": 112.0
+				},
+				{
+					"name":" other",
+					"value": 479.80000000000007
+				}
+			]
+		},
+		{
+			"name": "SEA",
+			"children": [
+				{
+					"name":" Russell Wilson",
+					"value": 280.0
+				},
+				{
+					"name":" Chris Carson",
+					"value": 177.1
+				},
+				{
+					"name":" Tyler Lockett",
+					"value": 129.3
+				},
+				{
+					"name":" Rashaad Penny",
+					"value": 110.5
+				},
+				{
+					"name":" Jason Myers",
+					"value": 108.2
+				},
+				{
+					"name":" other",
+					"value": 524.5
+				}
+			]
+		},
+		{
+			"name": "CAR",
+			"children": [
+				{
+					"name":" Cam Newton",
+					"value": 302.2
+				},
+				{
+					"name":" Christian McCaffrey",
+					"value": 250.6
+				},
+				{
+					"name":" D.J. Moore",
+					"value": 128.1
+				},
+				{
+					"name":" Graham Gano",
+					"value": 110.3
+				},
+				{
+					"name":" Curtis Samuel",
+					"value": 109.1
+				},
+				{
+					"name":" other",
+					"value": 431.5
+				}
+			]
+		},
+		{
+			"name": "NYJ",
+			"children": [
+				{
+					"name":" Sam Darnold",
+					"value": 232.2
+				},
+				{
+					"name":" Le'Veon Bell",
+					"value": 229.0
+				},
+				{
+					"name":" Robby Anderson",
+					"value": 127.8
+				},
+				{
+					"name":" Chandler Catanzaro",
+					"value": 112.2
+				},
+				{
+					"name":" New York Jets",
+					"value": 105.7
+				},
+				{
+					"name":" other",
+					"value": 445.79999999999995
+				}
+			]
+		},
+		{
+			"name": "SF",
+			"children": [
+				{
+					"name":" Jimmy Garoppolo",
+					"value": 260.2
+				},
+				{
+					"name":" Tevin Coleman",
+					"value": 140.1
+				},
+				{
+					"name":" George Kittle",
+					"value": 139.6
+				},
+				{
+					"name":" Dante Pettis",
+					"value": 125.1
+				},
+				{
+					"name":" Robbie Gould",
+					"value": 124.9
+				},
+				{
+					"name":" other",
+					"value": 660.5
+				}
+			]
+		},
+		{
+			"name": "NYG",
+			"children": [
+				{
+					"name":" Saquon Barkley",
+					"value": 275.4
+				},
+				{
+					"name":" Eli Manning",
+					"value": 199.7
+				},
+				{
+					"name":" Sterling Shepard",
+					"value": 117.6
+				},
+				{
+					"name":" Evan Engram",
+					"value": 113.7
+				},
+				{
+					"name":" Aldrick Rosas",
+					"value": 108.4
+				},
+				{
+					"name":" other",
+					"value": 393.1
+				}
+			]
+		},
+		{
+			"name": "CHI",
+			"children": [
+				{
+					"name":" Mitchell Trubisky",
+					"value": 262.0
+				},
+				{
+					"name":" David Montgomery",
+					"value": 158.4
+				},
+				{
+					"name":" Tarik Cohen",
+					"value": 125.8
+				},
+				{
+					"name":" Chicago Bears",
+					"value": 118.3
+				},
+				{
+					"name":" Allen Robinson",
+					"value": 112.7
+				},
+				{
+					"name":" other",
+					"value": 482.5
+				}
+			]
+		},
+		{
+			"name": "JAC",
+			"children": [
+				{
+					"name":" Nick Foles",
+					"value": 216.6
+				},
+				{
+					"name":" Leonard Fournette",
+					"value": 192.4
+				},
+				{
+					"name":" Dede Westbrook",
+					"value": 112.4
+				},
+				{
+					"name":" Jacksonville Jaguars",
+					"value": 106.9
+				},
+				{
+					"name":" Josh Lambo",
+					"value": 101.6
+				},
+				{
+					"name":" other",
+					"value": 506.3999999999999
+				}
+			]
+		},
+		{
+			"name": "ARI",
+			"children": [
+				{
+					"name":" Kyler Murray",
+					"value": 279.2
+				},
+				{
+					"name":" David Johnson",
+					"value": 205.7
+				},
+				{
+					"name":" Christian Kirk",
+					"value": 112.3
+				},
+				{
+					"name":" Arizona Cardinals",
+					"value": 106.6
+				},
+				{
+					"name":" Larry Fitzgerald",
+					"value": 104.7
+				},
+				{
+					"name":" other",
+					"value": 433.7
+				}
+			]
+		},
+		{
+			"name": "DEN",
+			"children": [
+				{
+					"name":" Joe Flacco",
+					"value": 183.9
+				},
+				{
+					"name":" Phillip Lindsay",
+					"value": 172.3
+				},
+				{
+					"name":" Denver Broncos",
+					"value": 110.3
+				},
+				{
+					"name":" Courtland Sutton",
+					"value": 108.1
+				},
+				{
+					"name":" Brandon McManus",
+					"value": 91.6
+				},
+				{
+					"name":" other",
+					"value": 544.3
+				}
+			]
+		},
+		{
+			"name": "TEN",
+			"children": [
+				{
+					"name":" Marcus Mariota",
+					"value": 224.0
+				},
+				{
+					"name":" Derrick Henry",
+					"value": 195.4
+				},
+				{
+					"name":" Ryan Succop",
+					"value": 107.1
+				},
+				{
+					"name":" Corey Davis",
+					"value": 106.9
+				},
+				{
+					"name":" Tennessee Titans",
+					"value": 103.6
+				},
+				{
+					"name":" other",
+					"value": 381.70000000000005
+				}
+			]
+		},
+		{
+			"name": "MIA",
+			"children": [
+				{
+					"name":" Josh Rosen",
+					"value": 185.2
+				},
+				{
+					"name":" Kenyan Drake",
+					"value": 145.7
+				},
+				{
+					"name":" Kenny Stills",
+					"value": 103.1
+				},
+				{
+					"name":" Miami Dolphins",
+					"value": 98.7
+				},
+				{
+					"name":" Albert Wilson",
+					"value": 92.6
+				},
+				{
+					"name":" other",
+					"value": 436.5
+				}
+			]
+		},
+		{
+			"name": "BAL",
+			"children": [
+				{
+					"name":" Lamar Jackson",
+					"value": 272.9
+				},
+				{
+					"name":" Mark Ingram",
+					"value": 164.1
+				},
+				{
+					"name":" Justin Tucker",
+					"value": 129.2
+				},
+				{
+					"name":" Baltimore Ravens",
+					"value": 104.9
+				},
+				{
+					"name":" Marquise Brown",
+					"value": 98.9
+				},
+				{
+					"name":" other",
+					"value": 457.4
+				}
+			]
+		},
+		{
+			"name": "BUF",
+			"children": [
+				{
+					"name":" Josh Allen",
+					"value": 266.4
+				},
+				{
+					"name":" Buffalo Bills",
+					"value": 113.3
+				},
+				{
+					"name":" LeSean McCoy",
+					"value": 103.8
+				},
+				{
+					"name":" Steven Hauschka",
+					"value": 97.2
+				},
+				{
+					"name":" John Brown",
+					"value": 91.0
+				},
+				{
+					"name":" other",
+					"value": 512.0
+				}
+			]
+		},
+		{
+			"name": "WAS",
+			"children": [
+				{
+					"name":" Dwayne Haskins",
+					"value": 147.9
+				},
+				{
+					"name":" Derrius Guice",
+					"value": 134.4
+				},
+				{
+					"name":" Washington Redskins",
+					"value": 110.1
+				},
+				{
+					"name":" Dustin Hopkins",
+					"value": 97.5
+				},
+				{
+					"name":" Chris Thompson",
+					"value": 94.9
+				},
+				{
+					"name":" other",
+					"value": 616.6
+				}
+			]
+		}
+	]
+}
